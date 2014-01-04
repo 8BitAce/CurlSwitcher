@@ -8,7 +8,7 @@
 //  including Activator delegate methods and implementing the effect
 
 #import <UIKit/UIKit.h>
-#import <libactivator/libactivator.h>
+#import "libactivator/libactivator.h"
 
 
 // Private declarations
