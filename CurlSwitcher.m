@@ -8,7 +8,6 @@
 
 #import "CurlSwitcher.h"
 #import "CSSettings.h"
-#import <QuartzCore/CAFilter.h>
 #import <objc/runtime.h>
 #import <math.h>
 

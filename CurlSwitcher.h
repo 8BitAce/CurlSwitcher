@@ -65,6 +65,11 @@ typedef struct __IOSurface *IOSurfaceRef;
 -(int)activeInterfaceOrientation;
 @end
 
+@interface CAFilter : NSObject <NSCopying, NSMutableCopying>
++(CAFilter*)filterWithType:(NSString*)type;
+-(void)setDefaults;
+@end
+
 // Our stuff
 @interface CurlSwitcher : NSObject <LAListener>
 
