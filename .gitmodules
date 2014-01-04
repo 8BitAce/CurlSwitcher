@@ -1,3 +1,6 @@
 [submodule "theos"]
 	path = theos
 	url = https://github.com/DHowett/theos
+[submodule "libactivator"]
+	path = libactivator
+	url = https://github.com/rpetrich/libactivator.git
