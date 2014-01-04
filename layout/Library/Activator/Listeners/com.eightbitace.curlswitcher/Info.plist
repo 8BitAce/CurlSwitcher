@@ -1,0 +1,5 @@
+{
+	title = CurlSwitcher;
+	"compatible-modes" = ("springboard", "application");
+	description = "Switcher curl animation.";
+}

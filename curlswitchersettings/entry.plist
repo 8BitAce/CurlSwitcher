@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = curlswitchersettings;
+		cell = PSLinkCell;
+		detail = "curlswitchersettingsListController";
+		icon = "CS-Pref.png";
+		isController = 1;
+		label = CurlSwitcher;
+	};
+}
