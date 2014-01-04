@@ -12,10 +12,6 @@
 #import <CoreFoundation/CoreFoundation.h>
 #import <UIKit/UIKit.h>
 #import <UIKit/UINavigationButton.h>
-//#import <Preferences/PSListController.h>
-//#import <Preferences/PSSpecifier.h>
-//#import <Preferences/PSTableCell.h>
-//#import <Preferences/PSTextEditingPane.h>
 #import <MessageUI/MFMailComposeViewController.h>
 #import <QuartzCore/QuartzCore.h>
 #include <stdio.h>
