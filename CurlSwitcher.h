@@ -12,6 +12,8 @@
 
 
 // Private declarations
+typedef struct __IOSurface *IOSurfaceRef;
+
 @interface SBLinenView : UIView
 -(id)initWithFrame:(struct CGRect)arg1;
 @end
